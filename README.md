@@ -11,9 +11,6 @@
 		</canvas>
 	</div>
 	<script type="text/javascript">
-	<!--
-			startCopperLichtFromFile('3darea', 'copperlichtdata/korekapi.ccbz', 'Loading $PROGRESS$...<br/><br/><img style="max-width:50%" src="copperlichtdata/coppercubeloadinglogo.png" />', 'Error: This browser does not support WebGL (or it is disabled).<br/>See <a href=\"http://www.ambiera.com/copperlicht/browsersupport.html\">here</a> for details.', false, true, "#000000");
-	-->
 	</script>
 	<br/>
 	<div align="center">
